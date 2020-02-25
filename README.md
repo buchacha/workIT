@@ -15,3 +15,16 @@
     <img src="employee_notifications.png" alt="Mountains" style="width:100%">
   </div>
 </div>
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
