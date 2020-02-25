@@ -1,2 +1,2 @@
 # workIT
-![employee_main_page.png]
+![](employee_main_page.png)
